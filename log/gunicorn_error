@@ -1,0 +1,273 @@
+[2022-03-07 10:14:49 +0800] [16233] [INFO] Starting gunicorn 20.1.0
+[2022-03-07 10:14:49 +0800] [16233] [INFO] Listening at: http://127.0.0.1:5000 (16233)
+[2022-03-07 10:14:49 +0800] [16233] [INFO] Using worker: sync
+[2022-03-07 10:14:49 +0800] [16234] [INFO] Booting worker with pid: 16234
+[2022-03-07 10:14:49 +0800] [16235] [INFO] Booting worker with pid: 16235
+[2022-03-07 10:32:14 +0800] [16233] [INFO] Handling signal: int
+[2022-03-07 10:32:15 +0800] [16235] [INFO] Worker exiting (pid: 16235)
+[2022-03-07 10:32:15 +0800] [16234] [INFO] Worker exiting (pid: 16234)
+[2022-03-07 10:32:15 +0800] [16233] [INFO] Shutting down: Master
+[2022-03-07 17:11:53 +0800] [32105] [INFO] Starting gunicorn 20.1.0
+[2022-03-07 17:11:53 +0800] [32105] [INFO] Listening at: http://127.0.0.1:5000 (32105)
+[2022-03-07 17:11:53 +0800] [32105] [INFO] Using worker: sync
+[2022-03-07 17:11:53 +0800] [32106] [INFO] Booting worker with pid: 32106
+[2022-03-07 17:11:53 +0800] [32107] [INFO] Booting worker with pid: 32107
+[2022-03-07 20:21:11 +0800] [32105] [INFO] Handling signal: int
+[2022-03-07 20:21:11 +0800] [32107] [INFO] Worker exiting (pid: 32107)
+[2022-03-07 20:21:11 +0800] [32106] [INFO] Worker exiting (pid: 32106)
+[2022-03-07 20:21:12 +0800] [32105] [INFO] Shutting down: Master
+[2022-03-07 20:27:00 +0800] [41053] [INFO] Starting gunicorn 20.1.0
+[2022-03-07 20:27:00 +0800] [41053] [INFO] Listening at: http://127.0.0.1:5000 (41053)
+[2022-03-07 20:27:00 +0800] [41053] [INFO] Using worker: sync
+[2022-03-07 20:27:00 +0800] [41054] [INFO] Booting worker with pid: 41054
+[2022-03-07 20:27:01 +0800] [41055] [INFO] Booting worker with pid: 41055
+[2022-03-07 20:29:00 +0800] [41053] [INFO] Handling signal: int
+[2022-03-07 20:29:00 +0800] [41054] [INFO] Worker exiting (pid: 41054)
+[2022-03-07 20:29:00 +0800] [41055] [INFO] Worker exiting (pid: 41055)
+[2022-03-07 20:29:00 +0800] [41053] [INFO] Shutting down: Master
+[2022-03-07 20:40:40 +0800] [42016] [INFO] Starting gunicorn 20.1.0
+[2022-03-07 20:40:40 +0800] [42016] [INFO] Listening at: http://127.0.0.1:5000 (42016)
+[2022-03-07 20:40:40 +0800] [42016] [INFO] Using worker: sync
+[2022-03-07 20:40:40 +0800] [42017] [INFO] Booting worker with pid: 42017
+[2022-03-07 20:40:40 +0800] [42018] [INFO] Booting worker with pid: 42018
+[2022-03-07 20:41:13 +0800] [42016] [INFO] Handling signal: int
+[2022-03-07 20:41:13 +0800] [42018] [INFO] Worker exiting (pid: 42018)
+[2022-03-07 20:41:13 +0800] [42017] [INFO] Worker exiting (pid: 42017)
+[2022-03-07 20:41:13 +0800] [42016] [INFO] Shutting down: Master
+[2022-03-07 21:38:19 +0800] [4141] [INFO] Starting gunicorn 20.1.0
+[2022-03-07 21:38:19 +0800] [4141] [INFO] Listening at: http://127.0.0.1:5000 (4141)
+[2022-03-07 21:38:19 +0800] [4141] [INFO] Using worker: sync
+[2022-03-07 21:38:19 +0800] [4142] [INFO] Booting worker with pid: 4142
+[2022-03-07 21:38:19 +0800] [4143] [INFO] Booting worker with pid: 4143
+[2022-03-07 21:42:46 +0800] [4141] [INFO] Handling signal: int
+[2022-03-07 21:42:46 +0800] [4143] [INFO] Worker exiting (pid: 4143)
+[2022-03-07 21:42:46 +0800] [4142] [INFO] Worker exiting (pid: 4142)
+[2022-03-07 21:42:47 +0800] [4141] [INFO] Shutting down: Master
+[2022-03-09 16:38:37 +0800] [16400] [INFO] Starting gunicorn 20.1.0
+[2022-03-09 16:38:37 +0800] [16400] [INFO] Listening at: http://127.0.0.1:5000 (16400)
+[2022-03-09 16:38:37 +0800] [16400] [INFO] Using worker: sync
+[2022-03-09 16:38:37 +0800] [16401] [INFO] Booting worker with pid: 16401
+[2022-03-09 16:38:37 +0800] [16402] [INFO] Booting worker with pid: 16402
+[2022-03-09 16:42:16 +0800] [16400] [INFO] Handling signal: int
+[2022-03-09 16:42:16 +0800] [16402] [INFO] Worker exiting (pid: 16402)
+[2022-03-09 16:42:16 +0800] [16401] [INFO] Worker exiting (pid: 16401)
+[2022-03-09 16:42:16 +0800] [16400] [INFO] Shutting down: Master
+[2022-03-09 16:42:18 +0800] [16949] [INFO] Starting gunicorn 20.1.0
+[2022-03-09 16:42:18 +0800] [16949] [INFO] Listening at: http://127.0.0.1:5000 (16949)
+[2022-03-09 16:42:18 +0800] [16949] [INFO] Using worker: sync
+[2022-03-09 16:42:18 +0800] [16950] [INFO] Booting worker with pid: 16950
+[2022-03-09 16:42:18 +0800] [16951] [INFO] Booting worker with pid: 16951
+[2022-03-09 16:42:18 +0800] [16951] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/arbiter.py", line 589, in spawn_worker
+    worker.init_process()
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/util.py", line 359, in import_app
+    mod = importlib.import_module(module)
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/wb/Code/lot/LOT_linux_1/run.py", line 49, in <module>
+    编码处理
+NameError: name '编码处理' is not defined
+[2022-03-09 16:42:18 +0800] [16950] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/arbiter.py", line 589, in spawn_worker
+    worker.init_process()
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/util.py", line 359, in import_app
+    mod = importlib.import_module(module)
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/wb/Code/lot/LOT_linux_1/run.py", line 49, in <module>
+    编码处理
+NameError: name '编码处理' is not defined
+[2022-03-09 16:42:18 +0800] [16951] [INFO] Worker exiting (pid: 16951)
+[2022-03-09 16:42:18 +0800] [16950] [INFO] Worker exiting (pid: 16950)
+[2022-03-09 16:42:54 +0800] [16985] [INFO] Starting gunicorn 20.1.0
+[2022-03-09 16:42:54 +0800] [16985] [INFO] Listening at: http://127.0.0.1:5000 (16985)
+[2022-03-09 16:42:54 +0800] [16985] [INFO] Using worker: sync
+[2022-03-09 16:42:54 +0800] [16986] [INFO] Booting worker with pid: 16986
+[2022-03-09 16:42:54 +0800] [16987] [INFO] Booting worker with pid: 16987
+[2022-03-09 16:42:55 +0800] [16986] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/arbiter.py", line 589, in spawn_worker
+    worker.init_process()
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/util.py", line 359, in import_app
+    mod = importlib.import_module(module)
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/wb/Code/lot/LOT_linux_1/run.py", line 49, in <module>
+    编码处理
+NameError: name '编码处理' is not defined
+[2022-03-09 16:42:55 +0800] [16986] [INFO] Worker exiting (pid: 16986)
+[2022-03-09 16:42:55 +0800] [16987] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/arbiter.py", line 589, in spawn_worker
+    worker.init_process()
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/util.py", line 359, in import_app
+    mod = importlib.import_module(module)
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/wb/Code/lot/LOT_linux_1/run.py", line 49, in <module>
+    编码处理
+NameError: name '编码处理' is not defined
+[2022-03-09 16:42:55 +0800] [16987] [INFO] Worker exiting (pid: 16987)
+[2022-03-09 16:43:27 +0800] [17034] [INFO] Starting gunicorn 20.1.0
+[2022-03-09 16:43:27 +0800] [17034] [INFO] Listening at: http://127.0.0.1:5000 (17034)
+[2022-03-09 16:43:27 +0800] [17034] [INFO] Using worker: sync
+[2022-03-09 16:43:27 +0800] [17035] [INFO] Booting worker with pid: 17035
+[2022-03-09 16:43:27 +0800] [17036] [INFO] Booting worker with pid: 17036
+[2022-03-09 16:43:27 +0800] [17035] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/arbiter.py", line 589, in spawn_worker
+    worker.init_process()
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/util.py", line 359, in import_app
+    mod = importlib.import_module(module)
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/wb/Code/lot/LOT_linux_1/run.py", line 49, in <module>
+    编码处理
+NameError: name '编码处理' is not defined
+[2022-03-09 16:43:27 +0800] [17035] [INFO] Worker exiting (pid: 17035)
+[2022-03-09 16:43:27 +0800] [17036] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/arbiter.py", line 589, in spawn_worker
+    worker.init_process()
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/site-packages/gunicorn/util.py", line 359, in import_app
+    mod = importlib.import_module(module)
+  File "/home/wb/Applications/miniconda3/envs/lot/lib/python3.9/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/wb/Code/lot/LOT_linux_1/run.py", line 49, in <module>
+    编码处理
+NameError: name '编码处理' is not defined
+[2022-03-09 16:43:27 +0800] [17036] [INFO] Worker exiting (pid: 17036)
+[2022-03-09 16:43:49 +0800] [17064] [INFO] Starting gunicorn 20.1.0
+[2022-03-09 16:43:49 +0800] [17064] [INFO] Listening at: http://127.0.0.1:5000 (17064)
+[2022-03-09 16:43:49 +0800] [17064] [INFO] Using worker: sync
+[2022-03-09 16:43:49 +0800] [17065] [INFO] Booting worker with pid: 17065
+[2022-03-09 16:43:49 +0800] [17066] [INFO] Booting worker with pid: 17066
+[2022-03-09 16:46:23 +0800] [17064] [INFO] Handling signal: int
+[2022-03-09 16:46:23 +0800] [17065] [INFO] Worker exiting (pid: 17065)
+[2022-03-09 16:46:23 +0800] [17066] [INFO] Worker exiting (pid: 17066)
+[2022-03-09 16:46:23 +0800] [17064] [INFO] Shutting down: Master
+[2022-03-09 16:46:50 +0800] [17451] [INFO] Starting gunicorn 20.1.0
+[2022-03-09 16:46:50 +0800] [17451] [INFO] Listening at: http://127.0.0.1:5000 (17451)
+[2022-03-09 16:46:50 +0800] [17451] [INFO] Using worker: sync
+[2022-03-09 16:46:50 +0800] [17452] [INFO] Booting worker with pid: 17452
+[2022-03-09 16:46:50 +0800] [17453] [INFO] Booting worker with pid: 17453
+[2022-03-09 16:48:03 +0800] [17451] [INFO] Handling signal: int
+[2022-03-09 16:48:03 +0800] [17452] [INFO] Worker exiting (pid: 17452)
+[2022-03-09 16:48:03 +0800] [17453] [INFO] Worker exiting (pid: 17453)
+[2022-03-09 16:48:03 +0800] [17451] [INFO] Shutting down: Master
+[2022-03-09 16:48:05 +0800] [17726] [INFO] Starting gunicorn 20.1.0
+[2022-03-09 16:48:05 +0800] [17726] [INFO] Listening at: http://127.0.0.1:5000 (17726)
+[2022-03-09 16:48:05 +0800] [17726] [INFO] Using worker: sync
+[2022-03-09 16:48:05 +0800] [17727] [INFO] Booting worker with pid: 17727
+[2022-03-09 16:48:05 +0800] [17728] [INFO] Booting worker with pid: 17728
+[2022-03-09 16:49:20 +0800] [17726] [INFO] Handling signal: int
+[2022-03-09 16:49:20 +0800] [17727] [INFO] Worker exiting (pid: 17727)
+[2022-03-09 16:49:20 +0800] [17728] [INFO] Worker exiting (pid: 17728)
+[2022-03-09 16:49:20 +0800] [17726] [INFO] Shutting down: Master
+[2022-03-09 16:49:22 +0800] [18012] [INFO] Starting gunicorn 20.1.0
+[2022-03-09 16:49:22 +0800] [18012] [INFO] Listening at: http://127.0.0.1:5000 (18012)
+[2022-03-09 16:49:22 +0800] [18012] [INFO] Using worker: sync
+[2022-03-09 16:49:22 +0800] [18013] [INFO] Booting worker with pid: 18013
+[2022-03-09 16:49:22 +0800] [18025] [INFO] Booting worker with pid: 18025
+[2022-03-09 16:50:31 +0800] [18012] [INFO] Handling signal: int
+[2022-03-09 16:50:31 +0800] [18013] [INFO] Worker exiting (pid: 18013)
+[2022-03-09 16:50:31 +0800] [18025] [INFO] Worker exiting (pid: 18025)
+[2022-03-09 16:50:31 +0800] [18012] [INFO] Shutting down: Master
